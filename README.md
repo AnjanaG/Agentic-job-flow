@@ -6,6 +6,11 @@ An AI-powered job search assistant that helps you discover, track, and reach out
 
 ## Features
 
+### 👤 Profile-based matching
+- Paste your resume for intelligent matching
+- Set target titles, location, and keywords
+- AI understands your transferable skills
+  
 ### 🔍 Smart job discovery
 - Search for jobs matching your profile and preferences
 - AI-powered matching scores (70-100%) based on your resume
@@ -21,12 +26,6 @@ An AI-powered job search assistant that helps you discover, track, and reach out
 - Tailored to each job and your background
 - Edit and refine before sending
 
-### 👤 Profile-based matching
-- Paste your resume for intelligent matching
-- Set target titles, location, and keywords
-- AI understands your transferable skills
-
----
 
 ## Quick start
 
